@@ -1,0 +1,7 @@
+//// The following is a running list of main topics/keywords focused on in the work.
+{{$previousresults}}
+
+//// The following is part of a longer work.
+{{$input}}
+
+//// Create a comma separated combined list of 3-5 main topics/keywords focused on in the work based on the running list and the individual part of the larger work.

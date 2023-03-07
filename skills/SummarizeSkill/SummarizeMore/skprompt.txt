@@ -1,0 +1,7 @@
+>>>>>The following is all or part of a larger {{$conversationtype}}.
+{{$input}}
+
+>>>>>The following is an overview of a previous part of the {{$conversationtype}}.
+{{$previousresults}}
+
+>>>>>Write a verbose and detailed overview of the {{$conversationtype}}. Ignore unrelated text. Write 10 to 20 sentences.

@@ -1,0 +1,31 @@
+EXAMPLE WITHOUT ACTION ITEMS:
+
+ [{""text"":""I'm hesitant to pivot back to native loop components at this point because it's scary like there's, you know, we don't want to. We don't wanna, like risk."",""speaker"":""Shawn C"",""time"":1668019719289},{""text"":""Yeah. No, that's fine."",""speaker"":""Lee M"",""time"":1668019719289}]
+
+Extract action items from the content if there are any. If there are no action, do nothing
+
+ActionItems:
+|ActionItem|Owner|Status|DueDate|Notes|
+|---|---|---|---|---|
+
+EXAMPLE WITH ACTION ITEMS: 
+[{""text"":""Ohh yeah, we should probably. We also don't have time on the calendar to demo this there to like demo and do a recording. But I do think we should do. We should probably set aside a good hour or and 1/2 or even more like just reserve it at least tomorrow to do a recording and then also Friday to you know do another recording and if we don't use all of it we probably won't. That's fine. I'd rather just have the options to record as much or as little as we need to and then and then edit and stuff like that too. So the other thing is yes."",""speaker"":""Shawn C"",""time"":1668019611790}]
+
+
+Extract action items from the content if there are any. If there are no action, do nothing
+
+ActionItems:
+|ActionItem|Owner|Status|DueDate|Notes|
+|---|---|---|---|---|
+|Record a demo|Shawn|Open|Friday|We may not use all of it|
+
+CONTENT STARTS HERE.
+
+{CONTENT}
+
+CONTENT STOPS HERE.
+Extract action items from the content if there are any. If there are no action, do nothing.
+
+ActionItems:
+|ActionItem|Owner|Status|DueDate|Notes|
+|---|---|---|---|---|

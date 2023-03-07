@@ -1,0 +1,12 @@
+{
+  "schema": 1,
+  "type": "completion",
+  "description": "Generate list of topics for long length content",
+  "completion": {
+    "max_tokens": 75,
+    "temperature": 0.0,
+    "top_p": 0.0,
+    "presence_penalty": 0.0,
+    "frequency_penalty": 0.0
+  }
+}
